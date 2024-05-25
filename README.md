@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mahajantejas
-- 👀 I’m interested in LLM projects, data science, product management
-- 🌱 I’m currently learning how to use Github actions and full stack web development
-- 💞️ I’m looking to collaborate on 
+- 👀 I am a product manager and a hobbyist coder
 - 📫 How to reach me tejas@projecttech4dev.org, tejas.mahajan07.1@gmail.com
 - ⚡ Fun fact: I play write and compose songs on my guitar in my leisure time.
 
