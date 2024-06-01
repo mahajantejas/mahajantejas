@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahajantejas
 - 👀 I am a product manager and a hobbyist coder
 - 📫 How to reach me tejas@projecttech4dev.org, tejas.mahajan07.1@gmail.com
-- Check out my profile [here]([url](https://tejas-mahajan-portfolio.netlify.app/))
+- Check out my profile [here](https://tejas-mahajan-portfolio.netlify.app/)
 - ⚡ Fun fact: I play write and compose songs on my guitar in my leisure time.
 
 <!---
